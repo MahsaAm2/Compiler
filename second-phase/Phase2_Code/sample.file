@@ -1,0 +1,34 @@
+class Program{
+	int func()
+	{}
+	void main(){
+		int s;
+	}
+}
+//class Program {
+//    int globalVar[2];
+//    void main(){ }
+//}
+
+//class Program {
+  // int globalVar;
+  // void main(){ }
+   //itn a[10];
+//}
+
+
+
+
+//class Program {
+//    int globalVar[2];
+//    void main(){ }
+//}
+
+//class Program {
+  // int globalVar;
+  // void main(){ }
+   //itn a[10];
+//}
+
+
+
